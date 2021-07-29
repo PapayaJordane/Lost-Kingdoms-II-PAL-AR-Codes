@@ -2,3 +2,5 @@
 040A8374 38000080
 040A97A0 38000080
 040A9718 38000080
+
+This code requires you to savestate and reload the savestate.
